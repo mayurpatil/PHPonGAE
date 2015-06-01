@@ -1,0 +1,1 @@
+{"builders":{"configs":{}},"mixinTypes":[],"runners":{"configs":{"system:/php/web/php56_gae1914":{"ram":1000,"variables":{},"options":{}}},"default":"system:/php/web/php56_gae1914"},"description":"http://8.sd03is032.appspot.com","type":"GAEPhp","attributes":{"language":["php"]}}
